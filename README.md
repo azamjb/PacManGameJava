@@ -3,6 +3,10 @@ Pac Man game, built using java in my Data Structures and Algorithms class!
 
 Implemented with the use of Binary Search Trees
 
+Follows traditional rules, collect all dots to win, dont get hit by a ghost
+
+To play, download all files and run "figs"
+
 
 
 
