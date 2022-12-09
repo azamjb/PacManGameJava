@@ -1,9 +1,7 @@
 # PacManGameJava
-Pac Man game, built using java
+Pac Man game, built using java in my Data Structures and Algorithms class!
 
-Made in my Data Structures and Algorithms class!
-
-Implemented with the use of Binary search trees
+Implemented with the use of Binary Search Trees
 
 
 
